@@ -1,0 +1,22 @@
+#* java -ea tablut.Main
+# Check that multiple captures with one move work correctly.
+manual white
+i6-f
+dump
+e3-d
+dump
+a4-d
+dump
+d3-b
+dump
+a6-d
+dump
+g5-4
+dump
+h5-4
+dump
+e7-d
+dump
+f1-4
+dump
+quit
